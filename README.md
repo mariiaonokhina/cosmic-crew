@@ -38,7 +38,7 @@ GIF created with LiceCap.
 ## Notes
 
 * Some challenges that I encountered included the collision logic. I made the spaceship from different shapes, which was very complicated to bound and check when it hits an asteroid or a coin. I used the following tutorial to implement collision detection. For simplicity, I approximated asteroids as circles, even though they are not perfect circles, and bounded the spaceship as a rectangle. The collision logic works, however, sometimes it detects a collision from being close to an asteroid due to the approximation of the shape.
-	Another challenge I encountered is rendering asteroids that do not overlap. I’ve spent a lot of time on this; however, the asteroids still overlap sometimes, and I decided to leave it as it is in this alpha version of the game.
+* Another challenge I encountered is rendering asteroids that do not overlap. I’ve spent a lot of time on this; however, the asteroids still overlap sometimes, and I decided to leave it as it is in this alpha version of the game.
 
 ## License
 
