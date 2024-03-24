@@ -1,4 +1,5 @@
 # Cosmic Crew - a game about space
+
 - Cosmic Crew is a game for people who are in love with space. 
 - By using **WASD**  keys, the player must move their spaceship, while collecting coins and dodging the asteroids. 
 - Failure to dodge an asteroid will result in a game over. 
@@ -7,6 +8,20 @@
 - This game does not have an ending at this stage of the game.
 
 Time spent: **30** hours spent in total
+
+## Video Walkthrough
+
+Here's a walkthrough of implemented features:
+
+<img src='Gameplay.gif' width='' alt='Video Walkthrough' />
+
+GIF created with LiceCap.
+
+## To Play:
+- There are several versions of the game for different operation systems: macOS Apple Silicon, macOS Intel, and Windows.
+- Download the zip file.
+- You will find an executable application inside the zip file.
+- If the program tells you that your Java is outdated, go to the following link to update Java: https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html
 
 ## Features:
 
@@ -25,15 +40,6 @@ Time spent: **30** hours spent in total
 - Speed up the game and/or add move asteroids as the game progresses
 - Add a certain goal for the player, like a quest
 - Change of background as the game progresses, for example, new planets are added, galaxies, etc
-
-## Video Walkthrough
-
-Here's a walkthrough of implemented required features:
-
-<img src='public/Website Walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-
-GIF created with LiceCap.
 
 ## Notes
 
